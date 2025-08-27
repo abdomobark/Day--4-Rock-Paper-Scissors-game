@@ -18,34 +18,4 @@ Input validation ensures the game handles invalid entries gracefully.
 1. Run the script:
    ```bash
    python rps.py
-Enter:
 
-0 for Rock
-
-1 for Paper
-
-2 for Scissors
-
-The program will display both choices and the result.
-
-Example 💡
-diff
-Copy code
-Enter 0 for Rock, 1 for Paper, or 2 for Scissors: 1
-🎉 You win!
-
-You chose:
-     _______
----'    ____)____
-           ______)
-          _______)
-         _______)
----.__________)
-
-Computer chose:
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
